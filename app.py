@@ -8,7 +8,7 @@ from PIL import Image                                 # PIL modulen för att han
 
 # Konstanter
 # mappen där filerna ska sparas
-UPLOAD_FOLDER = '/Users/voltu/OneDrive/Ambiente de Trabalho/AI Developer/Utveckling av webbapplikationer/Flask/Ivan_Bruno'
+UPLOAD_FOLDER = 'C:/Users/voltu/OneDrive/Ambiente de Trabalho/AI Developer/Utveckling av webbapplikationer/Flask/Ivan_Bruno/static/upload'
 
 # Flask applikationen
 app = Flask(__name__)
